@@ -30,8 +30,6 @@ EventSphere currently focuses on **departmental societies** at UET Taxila. Keepi
 |---|---|
 | HTML5 | Page structure |
 | CSS3 | Styling and responsive layout |
-| JavaScript | Filtering, Read More, search and form validation |
-| Firebase (optional) | Saving registrations |
 | GitHub | Teamwork and version control |
 | VS Code | Code editor |
 
@@ -42,11 +40,6 @@ EventSphere/
 ├── index.html
 ├── css/
 │   └── style.css
-├── js/
-│   ├── data.js
-│   ├── script.js
-│   ├── registration.js
-│   └── firebase.js
 ├── images/
 │   ├── logo.png
 │   ├── societies/
@@ -74,7 +67,7 @@ _Add screenshots of the home page, societies section and registration form here.
 - Admin panel for society heads to post events
 - Event reminders
 
-## Team: TRIO404, Group 2
+## Team: TRIO404
 
 - Muhammad Sufyan Sajid (26-CS-072)
 - Eman Malik (26-CS-045)
