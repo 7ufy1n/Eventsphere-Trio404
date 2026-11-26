@@ -1,6 +1,23 @@
+:root {
+  --color-forest: #123f30;
+  --color-green: #1b684a;
+  --color-gold: #f2bd00;
+  --color-cream: #f7f4e8;
+  --color-white: #ffffff;
+  --color-ink: #173c30;
+  --color-rust: #9b431d;
+}
+
+
+
 * {
 
   margin: 0;
   padding: 0;
 
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
 }
